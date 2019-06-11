@@ -1,0 +1,206 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"vel",
+				"velocityDisplay"
+			],
+			[
+				"ANGL",
+				"angle"
+			],
+			[
+				"angle",
+				"angleDisplay"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"th",
+				"th"
+			],
+			[
+				"view",
+				"view_Table"
+			],
+			[
+				"sessio",
+				"session_start"
+			],
+			[
+				"div",
+				"div"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"error",
+				"error_message"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"mob",
+				"mobileno"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/shubh/Documents/Smu Brightspace/May-August 2019/Web,Mobile and Cloud app Development/Assignment- 1/assignment1.html",
+		"/C/Users/shubh/Documents/Smu Brightspace/May-August 2019/Web,Mobile and Cloud app Development/Assignment- 1/index.html",
+		"/C/Users/shubh/Documents/Smu Brightspace/May-August 2019/Web,Mobile and Cloud app Development/Assignment- 1/FirstApp.html",
+		"/C/Users/shubh/Documents/Smu Brightspace/May-August 2019/Web,Mobile and Cloud app Development/Assignment- 1/assignment1JS",
+		"/C/Users/shubh/Documents/Smu Brightspace/May-August 2019/Web,Mobile and Cloud app Development/Assignment- 1/assignment1",
+		"/C/Users/shubh/AppData/Local/Temp/fz3temp-2/get_table_name.php",
+		"/C/Users/shubh/AppData/Local/Temp/fz3temp-2/createCustomer.php",
+		"/C/Users/shubh/Documents/Smu Brightspace/Databases/signup.php",
+		"/C/Users/shubh/AppData/Local/Temp/fz3temp-2/dbguest.php",
+		"/C/Users/shubh/Documents/Smu Brightspace/Databases/Lecture notes/Extra Material/ex2/print_table1stVERSION.php",
+		"/C/Users/shubh/Documents/Smu Brightspace/Databases/Lecture notes/Extra Material/ex2/get_table_name.php",
+		"/C/Users/shubh/Documents/Smu Brightspace/Databases/Lecture notes/Extra Material/ex2/main.php",
+		"/C/Users/shubh/Documents/Smu Brightspace/Databases/Submissions/Assignment 2/A00433094/signup.php",
+		"/C/Users/shubh/Documents/Smu Brightspace/Databases/Lecture notes/Extra Material/ex3/insert_course.php",
+		"/C/Users/shubh/Documents/Smu Brightspace/Databases/Assignment 1/Solution/Question1/creating_tables.sql",
+		"/C/Users/shubh/AppData/Local/Temp/fz3temp-2/dbconnector.php",
+		"/C/Users/shubh/Documents/Smu Brightspace/Databases/Lecture notes/Extra Material/dbguest.php",
+		"/C/Users/shubh/AppData/Local/Temp/fz3temp-2/print_table.php",
+		"/C/Users/shubh/Documents/Smu Brightspace/Databases/Lecture notes/Tutorial files/Tutorial files/get_table_name.php",
+		"/C/Users/shubh/AppData/Local/Temp/fz3temp-2/signup.php",
+		"/C/Users/shubh/AppData/Local/Temp/fz3temp-2/Login.php",
+		"/C/Users/shubh/AppData/Local/Temp/fz3temp-2/view.php",
+		"/C/Users/shubh/Downloads/signup.php",
+		"/C/Users/shubh/Documents/Smu Brightspace/Databases/Lecture notes/Extra Material/ex3/get_course.php",
+		"/C/Users/shubh/Documents/Smu Brightspace/Databases/main.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
