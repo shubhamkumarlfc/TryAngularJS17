@@ -1,10 +1,14 @@
 <!DOCTYPE html>
-<html lang="en" ng-app>
+<html lang="en" ng-app='try'>
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.8/angular.min.js"></script>
+  <script src="./js/app/app.module.js"></script>
+  <script src="./js/app/app.config.js"></script>
+  <script src="./js/app/blog-list/blog-list.module.js"></script>
+  <script src="./js/app/blog-list/blog-list.component.js"></script>
   <!-- <script type="text/javascript" src="./js/angular.min.js"></script> -->
   <title>Angularjs 1.7</title>
 
@@ -15,12 +19,20 @@
   .other-class {
   	font-size: 32px;
   }
+  .new-class2 {
+  	font-size: 120px;
+  }
   </style>
 </head>
 <body>
-	<h1 class='new-class' ng-class="{'other-class': name=='shubham'}"> Hello Angular 1.7. I am 
+	<h1 class='new-class' ng-class="{'other-class': name=='shubham', 'new-class2': font==120}"> Hello Angular 1.7. I am 
 		<span ng-if='name'> {{ name }} </span>
 		<span ng-if='!name'>World!</span></h1>
 	<input type='text' ng-model='name'>
+
+	<input type='text' ng-model='font' placeholder='font'>
+
+	<div class='' ng-controller='BlogListController'>
+
 </body>
 </html>
